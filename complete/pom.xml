@@ -11,6 +11,9 @@
     <modules>
         <module>eureka-client</module>
         <module>eureka-service</module>
+        <module>greeting</module>
+        <module>hello-service</module>
+        <module>hello-web-client-service</module>
     </modules>
 
 </project>
